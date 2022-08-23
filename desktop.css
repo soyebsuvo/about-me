@@ -1,0 +1,29 @@
+.card{
+    width: 200px;
+    height: 230px;
+}
+.nav-item{
+    background: none;
+    width: 100%;
+   
+}
+.banner-contents{
+    height: 50vh;
+}
+.banner-contents button{
+    font-size: 1.3rem;
+}
+.nav-link{
+    padding: 0;
+    margin: 0;
+}
+.banner-contents h2{
+    font-size: 3.2rem;
+}
+footer p{
+    margin: 15px;
+}
+footer a{
+    margin: 20px 20px;
+    margin-bottom: 0px;
+}
